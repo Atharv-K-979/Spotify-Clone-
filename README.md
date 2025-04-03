@@ -3,4 +3,4 @@ I have made Spotify clone using HTML And CSS (Tried to implement the Same copy o
 
 
 # Preview -
-![](FinalWebsite.png)
+![](final.jpg)
